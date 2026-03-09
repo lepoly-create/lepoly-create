@@ -108,13 +108,13 @@ Je participe activement à l'écosystème tech local via :
 | [**SkillBridge**](https://github.com/lepoly-create/SkillBridge) | Projet personnel en PHP publié sur mon compte GitHub. | PHP |
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=lepoly-create&repo=30Daysofpython&hide_border=true" alt="30Daysofpython" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=lepoly-create&repo=TP_ALGO_NUM&hide_border=true" alt="TP_ALGO_NUM" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lepoly-create&repo=30Daysofpython&hide_border=true" alt="30Daysofpython" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lepoly-create&repo=TP_ALGO_NUM&hide_border=true" alt="TP_ALGO_NUM" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=lepoly-create&repo=JSTraining&hide_border=true" alt="JSTraining" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=lepoly-create&repo=TP_PHP_Training&hide_border=true" alt="TP_PHP_Training" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lepoly-create&repo=JSTraining&hide_border=true" alt="JSTraining" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lepoly-create&repo=TP_PHP_Training&hide_border=true" alt="TP_PHP_Training" />
 </div>
 
 ---
@@ -122,8 +122,8 @@ Je participe activement à l'écosystème tech local via :
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lepoly-create&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepoly-create&layout=compact&langs_count=8&hide_border=true" alt="Top Langages" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lepoly-create&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lepoly-create&layout=compact&langs_count=8&hide_border=true" alt="Top Langages" />
 </div>
 
 <div align="center">
