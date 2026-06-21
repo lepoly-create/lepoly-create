@@ -20,7 +20,7 @@
 
 > **"Do Best Of Yourself"** - Donner le meilleur de soi-même.
 
-Je suis **AMEGADJIN Komlan Josue**, étudiant en génie logiciel à l'**École Polytechnique de Lomé** (Togo). Je construis progressivement un profil **fullstack web**, avec un intérêt fort pour les produits utiles, le design soigné et l'innovation technologique.
+Je suis **AMEGADJIN Komlan Josue**, étudiant en génie logiciel à l'**École Polytechnique de Lomé** (Togo). Je construis progressivement un profil **web fullstack**, avec un intérêt fort pour les produits utiles, le design soigné et l'innovation technologique.
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" alt="Night coding animation" />
