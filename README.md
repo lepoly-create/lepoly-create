@@ -127,8 +127,13 @@ Je participe activement à l'écosystème tech local via :
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lepoly-create&" alt="My Streak" /></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lepoly-create&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=lepoly-create&theme=default" />
+  </picture>
 </div>
+
+
 
 <details>
 <summary><b>Voir le graphique d'activité</b></summary>
