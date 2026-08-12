@@ -127,7 +127,7 @@ Je participe activement à l'écosystème tech local via :
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lepoly-create&" alt="lepoly-create" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lepoly-create&" alt="My Streak" /></p>
 </div>
 
 <details>
